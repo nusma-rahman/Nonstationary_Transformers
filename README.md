@@ -5,7 +5,7 @@ This repository contains the regenerated code base for the paper titled:
 
 ## Preparation
 
-1. This repository contains two scripts: one for the traffic dataset and another for the weather dataset. Change the data path accordingly in the Bash script.
+1. This repository contains two scripts: one for the traffic dataset and another for the weather dataset. Change the root path and data path accordingly in the Bash script.
 
 2.  To run the Bash script on a MacBook using VSCode, you can use the following command:
 
